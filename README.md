@@ -1,9 +1,6 @@
-# Fabric Example Mod
+# Creepers Burn
 
-## Setup
+## Install
+Put the jar into the mods folder.
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+For server owners players do not need to have it installed to work.
