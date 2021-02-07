@@ -6,8 +6,8 @@
   "mixins": [
     "CreeperEntityMixin"
   ],
-  "client": [
-    "ExampleMixin"
+  "server": [
+    "CreeperEntityMixin"
   ],
   "injectors": {
     "defaultRequire": 1
